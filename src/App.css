@@ -17,11 +17,11 @@ img{
 }
 .name{
   display: flex;
-  justify-content: space-around
+  justify-content: center;
 }
 .adress{
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
 }
 .contenu{
   text-shadow: 4px 4px 10px red;
