@@ -4,7 +4,7 @@ import myimg from '../nidhal.jpg';
 function ProfilePhoto() {
     return (
         <div>
-            <img src={myimg} alt="nidhal" style={{width:500 ,height:700}}/>
+            <img src={myimg} alt="nidhal" style={{width:400 ,height:500}}/>
         </div>
     )
 }

@@ -1,15 +1,16 @@
 .App {
   text-align: center;
-  margin: 3%;
-  width: 600px;
+  margin: 1%;
+  width:520px;
   box-shadow: 20px 0 20px 0 rgb(7, 7, 56);
   background-color:rgb(65, 28, 28);
   color: white;
   font-family: 'Rampart One', cursive;
   border-radius: 7%;
-  padding: 15px;
-  
+  padding: 15px; 
 }
+
+
 img{
   margin: 20px;
   box-shadow:7px 0px 7px 0px rgba(255, 255, 255, 0.712);
@@ -35,6 +36,5 @@ h2{
   justify-content: center;
   background-color: cadetblue;
 }
-
 
 

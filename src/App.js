@@ -6,7 +6,7 @@ import ProfilePhoto from './component/ProfilePhoto';
 function App() {
   return (
     <div className="body">
-    <div className="App">
+    <div className="App"  >
       <ProfilePhoto/>
       <Name/>
       <Adress/>
